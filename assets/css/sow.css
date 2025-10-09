@@ -1,5 +1,4 @@
 header {
-<<<<<<< HEAD
 	background: #8cb1fa;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -13,24 +12,10 @@ nav {
 nav ul {
 	list-style: none;
 	margin: 10px;
-=======
-	background: #fff;
-	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-nav {
-	position: sticky;
-	top: 0;
-	z-index: 1000;
-}
-nav ul {
-	list-style: none;
-	margin: 0;
->>>>>>> b62948897257ceed79819ca4aecd1aaea7feeee2
 	padding: 0;
 	display: flex;
 }
 nav ul li {
-<<<<<<< HEAD
 	margin-right: 2rem;
 	margin: auto;
   	padding: 10px;
@@ -72,6 +57,7 @@ nav ul li a:focus {
 	margin: auto;
   	padding: 10px;
 	display: flex;
+	color: #fff;
 	
 }
 @keyframes fadeIn {
@@ -99,15 +85,3 @@ p {
   width: 80%;
   padding: 10px;
 }
-=======
-	margin-right: 1rem;
-}
-nav ul li a {
-	text-decoration: none;
-	color: #333;
-}
-
-#site-awwwards {
-  background-color: yellow;
-}
->>>>>>> b62948897257ceed79819ca4aecd1aaea7feeee2
