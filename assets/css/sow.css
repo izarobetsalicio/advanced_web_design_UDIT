@@ -73,7 +73,6 @@ p {
 }
 
 
-
 #Compost-Guide {
   margin: auto;
   width: 80%;
@@ -85,3 +84,21 @@ p {
   width: 80%;
   padding: 10px;
 }
+
+#Alfredo-Gelato {
+	margin: auto;
+	width: 80%;
+	padding: 10px;
+}
+
+#Pictoric {
+	margin: auto;
+	width: 80%;
+	padding: 10px;
+}
+
+h2 {
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
