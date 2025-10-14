@@ -172,7 +172,7 @@ img {
   margin-top: 10px;
 }
 
-/* Responsive para móviles */
+/* Responsive */
 @media screen and (max-width: 768px) {
   .content-row {
     flex-direction: column;
@@ -191,9 +191,10 @@ img {
     width: 90%;
   }
 }
-
+/* 4 Cajitas */
 .card-row {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   justify-content: space-between;
   width: 100%;
   margin: 40px auto;
@@ -225,6 +226,7 @@ img {
   color: #fff;
   text-align: center;
 }
+
 
 
 
@@ -289,3 +291,8 @@ img {
 .divider-text::after {
   right: -110px;
 }
+
+  a {
+      color: #373435;
+      text-decoration: none;
+    }
