@@ -108,6 +108,7 @@ footer a:hover {
 
 	h1 {
 		font-size: 2rem;
+		font-family: 'OCR-A'; 
 	}
 	h2 {
 		font-size: 1.75rem;
@@ -150,3 +151,5 @@ select:focus {
 .skip-link:focus {
 	top: 6px;
 }
+
+@import "types.css";
