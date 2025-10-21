@@ -41,19 +41,17 @@ h1 {
 }
 h2 {
 	font-size: 2rem;
-	font-family: "Cal Sans", sans-serif;
+	font-family: "OCR-A";
 	font-style: normal;
 }
 h3 {
 	font-size: 1.5rem;
-	font-family: "Cal Sans", sans-serif;
 	font-style: normal;
 }
 
 p,
 li {
 	margin-bottom: 1rem;
-	font-family: "Cal Sans", sans-serif;
 	font-style: normal;
 }
 
@@ -151,5 +149,3 @@ select:focus {
 .skip-link:focus {
 	top: 6px;
 }
-
-@import "types.css";
