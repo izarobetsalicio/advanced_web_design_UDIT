@@ -67,6 +67,7 @@ nav ul li a:focus {
 }
 
 p {
+  font-family: "Cal Sans", sans-serif;
   margin: auto;
   width: 100%;
   text-justify: auto;
@@ -100,12 +101,14 @@ p {
 
 h2 {
 	margin-top: 20px;
+  font-family: "Cal Sans", sans-serif;
 	margin-bottom: 5px;
 	padding-left: 5px;
 	color: #373435;
 }
 
 h3 {
+  font-family: "Cal Sans", sans-serif;
 	margin: auto;
 	width: 100%;
 	padding-top: 10px;
@@ -256,6 +259,7 @@ img {
 
 
 .static-divider {
+  font-family: "Cal Sans", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -296,3 +300,8 @@ img {
       color: #373435;
       text-decoration: none;
     }
+
+
+
+
+    
